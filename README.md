@@ -31,4 +31,4 @@ https://www.kaggle.com/komalkhetlani/out-of-school-rates-global-data?select=Uppe
 •	Shruti Tyagi - 16010120202
 
 # Institute
-![](Images/somaiya logo.jpeg)
+![somaiya logo](https://user-images.githubusercontent.com/79756939/144486512-eb0cba46-18a8-4ce8-bf5c-0d256ea5d46b.jpeg)
