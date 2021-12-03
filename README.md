@@ -47,7 +47,7 @@ This repository contains the Tableau file, the preprocessed dataset used in this
 ![](Images/17.png)
 ![](Images/18.png)
 
-#Results
+## Results
 * Niger has the highest total school dropout rate, female dropout rate and male dropout rate.
 * Most countries have higher dropout rates in rural areas compared to urban areas. Some Exceptions are Eswatini, Kenya and South Africa.
 * 63% of countries have more female dropouts than male dropouts. Some exceptions are Kiribati, Mongolia, Philippines, Moldova, Serbia, Thailand, Palestine and Tonga.
